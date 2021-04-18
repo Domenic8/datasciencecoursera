@@ -2,7 +2,7 @@
 title: "HelloWorld"
 author: "Domenic Gonzalez"
 date: "18 4 2021"
-output: md_document
---
+output: pdf_document
+---
 
-##This is a markdown file
+## This is a markdown File
