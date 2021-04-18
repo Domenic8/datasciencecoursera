@@ -1,8 +1,8 @@
 ---
-title: "HelloWorld"
+title: "Hello World"
 author: "Domenic Gonzalez"
 date: "18 4 2021"
-output: pdf_document
+output: md_document
 ---
 
 ##This is a markdown file
